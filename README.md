@@ -1,4 +1,4 @@
-# SQL-Server-Maintenance-Solution
+# SQL Server Maintenance Solution
 Hardening Solution and other SQL Server scripts for health checks and performance tuning.<br>
 This solution was created partly based on https://www.cisecurity.org (State: 31 July, 2019).
 Allows to completely lock down a server, except for the particular services that it requires to perform specific duties.
